@@ -1,3 +1,4 @@
-psycopg2
-pandas
-matplotlib
+psycopg2~=2.9.10
+pandas~=2.2.3
+matplotlib~=3.10.0
+numpy~=2.2.0
